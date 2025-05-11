@@ -1,0 +1,2 @@
+. filter=lfs diff=lfs merge=lfs -text
+ipynb_checkpoints/credits.csv filter=lfs diff=lfs merge=lfs -text
